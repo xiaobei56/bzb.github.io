@@ -4,7 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./Android基础面试题.html).
+[Android高级](./docs/Android高级面试题.html).
+
+[Android基础](./docs/Android基础面试题.html).
 
 There should be whitespace between paragraphs.
 
